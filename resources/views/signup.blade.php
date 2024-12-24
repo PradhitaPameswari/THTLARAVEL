@@ -105,7 +105,7 @@
 <body>
     <div class="container">
         <div class="illustration">
-            <img src="{{ asset('images/signin.png') }}" alt="Sign Up Illustration" style="width: 100%; height: 100%; object-fit: cover;">
+            <img src="{{ asset('images/signup.png') }}" alt="Sign Up Illustration" style="width: 100%; height: 100%; object-fit: cover;">
         </div>
         <div class="form-container">
             <h1>Sign Up</h1>
